@@ -64,6 +64,9 @@ body {
 @media screen and (max-width: 769px) {
   .header .key-Wrapper {
     flex-direction: column;
+    padding: 0;
+    width: 200px;
+    height: 500px;
     justify-content: space-evenly;
     background-color: transparent;
   }
